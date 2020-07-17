@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: challenger772/gatsby-netlify-okta
 
 media_folder: static/assets
 public_foler: assets
